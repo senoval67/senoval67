@@ -8,5 +8,5 @@ I test desktop and mobile applications, write test cases and bug reports, and ke
 ## 📂 See my projects
 
 <p align="center">
-  <a href="https://github.com/senoval67/testingYoutubePlaylistDownloader"><img width="24%" src="https://github.com/senoval67/myimages/blob/main/images/testingYoutubePlaylistDownloaderCOLLAGE.png"></a>
+  <a href="https://github.com/senoval67/testingYoutubePlaylistDownloader"><img width="24%" src="https://github.com/senoval67/myimages/blob/main/images/testingYoutubePlaylistDownloaderCOLLAGEE.jpg"></a>
 </p>
